@@ -1,6 +1,6 @@
 # Extracting-and-Visualising-Stock-data-yfinance
 Extract stock data for Tesla Revenue and GME revenue
-This project uses Python, Jupyter Notebook, and data from Yahoo Finance and web scraping to analyze the historical stock prices and quarterly revenues of Tesla (TSLA) and GameStop (GME). It includes interactive visualizations using Plotly and demonstrates data extraction, cleaning, filtering, and plotting techniques.
+This project uses Python, Jupyter Notebook and data from Yahoo Finance and web scraping to analyze the historical stock prices and quarterly revenues of Tesla (TSLA) and GameStop (GME). It includes interactive visualizations using Plotly and demonstrates data extraction, cleaning, filtering and plotting techniques.
 
 
 Project aims to do the following:
